@@ -1,1 +1,1 @@
-# recipy-task
+# recipe-task
